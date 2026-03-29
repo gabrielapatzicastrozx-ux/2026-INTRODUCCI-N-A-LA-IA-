@@ -28,10 +28,13 @@ Respondan estas 4 preguntas para su caso:
  **1 ¿Qué datos recolectas? Lista las señales de entrada (explícitas e implícitas).**
 -Explicitas: Ubicación GPS ,permisos de Idioma.
 - Implicitas: Hora de la consulta, clima.
+  
 **2 ¿Qué predices exactamente? ¿Cuál es el objetivo que optimiza tu sistema?**
 Respuesta: La probabilidad de que el usuario haga el pedido, vender y que el pedido llegue rápido y rico.
+
 **3 ¿Cómo resuelves el Cold Start Problem para un usuario completamente nuevo?**
   Respuesta: Al principio se meustra las comidas mas populares , categorias de comidas saludables y chatarras , por ultimo mostrar segun la hora de ingreso (mostrar almuerzo, desayuno , cena o postre) .
+  
 
 **4 ¿Qué riesgo ético tiene tu sistema? Identifica al menos uno concreto.**
 Mostrar solo restaurantes populares sobre restaurantes nuevos y no populares , pues se demuestra que el apoyo sigue creciendo a restaurantes con nombre.
