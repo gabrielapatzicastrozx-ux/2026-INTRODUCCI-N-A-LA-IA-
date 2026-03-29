@@ -26,6 +26,7 @@ Caso Elejido:
 Respondan estas 4 preguntas para su caso:
  
  **1 ¿Qué datos recolectas? Lista las señales de entrada (explícitas e implícitas).**
+ 
 -Explicitas: Ubicación GPS ,permisos de Idioma.
 - Implicitas: Hora de la consulta, clima.
   
@@ -37,5 +38,5 @@ Respuesta: La probabilidad de que el usuario haga el pedido, vender y que el ped
   
 
 **4 ¿Qué riesgo ético tiene tu sistema? Identifica al menos uno concreto.**
-Mostrar solo restaurantes populares sobre restaurantes nuevos y no populares , pues se demuestra que el apoyo sigue creciendo a restaurantes con nombre.
+  Respuesta: Mostrar solo restaurantes populares sobre restaurantes nuevos y no populares , pues se demuestra que el apoyo sigue creciendo a restaurantes con nombre.
 
