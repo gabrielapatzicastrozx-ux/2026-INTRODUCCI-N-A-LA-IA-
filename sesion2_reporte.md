@@ -9,7 +9,7 @@ Para *cursiva* usa un asterisco. Para `código inline` usa acento grave.
 ## Listas sin orden
 - Primer punto
 - - Segundo punto
-  - - Sub-punto (2 espacios de sangría) 
+   - Sub-punto (2 espacios de sangría) 
 ## Lista numerada 
 1. Primero
  2. Segundo
@@ -20,4 +20,10 @@ Para *cursiva* usa un asterisco. Para `código inline` usa acento grave.
  ## Insertar un link 
  [Texto visible](https://netflixtechblog.com) 
  ## Tabla básica 
- | Señal | Tipo | Peso | |-------------|-----------|----------| | Completion | Implícita | Muy alto | | Like | Explícita | Medio |
+ | Señal 
+ | Tipo 
+ | Peso | 
+ |-------------|-----------|----------|
+ | Completion 
+ | Implícita 
+ | Muy alto | | Like | Explícita | Medio |
