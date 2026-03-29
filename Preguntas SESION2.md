@@ -27,7 +27,7 @@ Respondan estas 4 preguntas para su caso:
  
  **1 ¿Qué datos recolectas? Lista las señales de entrada (explícitas e implícitas).**
  
--Explicitas: Ubicación GPS ,permisos de Idioma.
+- Explicitas: Ubicación GPS ,permisos de Idioma.
 - Implicitas: Hora de la consulta, clima.
   
 **2 ¿Qué predices exactamente? ¿Cuál es el objetivo que optimiza tu sistema?**
